@@ -29,5 +29,5 @@ npm install @protocol-01/zk-sdk
 ## Links
 
 - npm: [@protocol-01/zk-sdk](https://www.npmjs.com/package/@protocol-01/zk-sdk)
-- Site: [protocol-01.vercel.app](https://protocol-01.vercel.app)
+- Site: [protocol-01.dev](https://protocol-01.dev)
 - Twitter: [@Protocol01_](https://x.com/Protocol01_)
